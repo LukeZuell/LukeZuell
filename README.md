@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<meta name="google-site-verification" content="cCVdpVp9ZLFZiOOctnDoUoJ_VKI_iTXhQ0juOZhhb_I"/>
+<meta name="google-site-verification" content="cCVdpVp9ZLFZiOOctnDoUoJ_VKI_iTXhQ0juOZhhb_I" />
 <!--
 
 **LukeZuell/LukeZuell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
