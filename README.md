@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Luke Zuell</h1>
+<h1 align="center">Hi, I'm Luke Zuell</h1>
 <h3 align="center">A passionate Software Development Student studying at Royal Melbourne Institute of Technology (RMIT)</h3>
-
+<meta name="google-site-verification" content="cCVdpVp9ZLFZiOOctnDoUoJ_VKI_iTXhQ0juOZhhb_I" />
 - 🌱 I’m currently learning **about C++ and Java**
 
 - 👨‍💻 All of my projects are available at [lukezuell.com.au (Soon)](lukezuell.com.au (Soon))
